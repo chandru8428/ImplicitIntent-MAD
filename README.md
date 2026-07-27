@@ -45,8 +45,8 @@ The browser opens and displays the requested URL
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by:
-Registeration Number :
+Developed by: Chandru K
+Registeration Number :212224220017
 */
 ```
 activity_main.xml
